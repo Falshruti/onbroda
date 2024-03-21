@@ -1,0 +1,38 @@
+{
+    "images": [
+      {
+        "id": 1,
+        "name": "Nykaa : Beauty Shopping App",
+        "category": "Category 1",
+        "imageSrc": "images/img1.png",
+        "logo": "images/logo-Nykaa.png",
+        "rating":"4.5 ★ 50M + | 11 SCREENS"
+      },
+      {
+        "id": 2,
+        "name": "Product 2",
+        "category": "Category 2",
+        "imageSrc": "images/img2.png"
+      },
+      {
+        "id": 3,
+        "name": "Product 3",
+        "category": "Category 1",
+        "imageSrc":  "images/img3.png"
+      },
+      {
+        "id": 4,
+        "name": "Product 4",
+        "category": "Category 3",
+        "imageSrc":  "images/img4.png"
+      },
+      {
+        "id": 5,
+        "name": "Product 5",
+        "category": "Category 2",
+        "imageSrc":  "images/img5.png"
+      }
+    ]
+  }
+  
+  
